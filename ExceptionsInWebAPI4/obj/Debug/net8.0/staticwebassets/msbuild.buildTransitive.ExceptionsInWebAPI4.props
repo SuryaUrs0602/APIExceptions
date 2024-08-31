@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ExceptionsInWebAPI4.props" />
+</Project>

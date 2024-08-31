@@ -1,0 +1,6 @@
+@ExceptionsInWebAPI3_HostAddress = http://localhost:5225
+
+GET {{ExceptionsInWebAPI3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

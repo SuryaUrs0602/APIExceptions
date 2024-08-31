@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExceptionsInWebAPI2.props" />
+</Project>

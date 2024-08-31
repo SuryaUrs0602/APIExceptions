@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi4\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|solutionrelative:exceptionsinwebapi4\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi4\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|solutionrelative:exceptionsinwebapi4\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|solutionrelative:exceptionsinwebapi3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi3\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|solutionrelative:exceptionsinwebapi3\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi4\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|solutionrelative:exceptionsinwebapi4\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|solutionrelative:exceptionsinwebapi4\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE1AC1B-7BC4-4ED4-BD46-D7DCA8D89453}|ExceptionsInWebAPI4\\ExceptionsInWebAPI4.csproj|solutionrelative:exceptionsinwebapi4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBEE4BF-1459-4B8D-BAB8-94D7907758C3}|ExceptionsInWebAPI1\\ExceptionsInWebAPI1.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBEE4BF-1459-4B8D-BAB8-94D7907758C3}|ExceptionsInWebAPI1\\ExceptionsInWebAPI1.csproj|solutionrelative:exceptionsinwebapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C454ACE-B1BF-4D36-87A6-7C1206DD963E}|ExceptionsInWebAPI2\\ExceptionsInWebAPI2.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C454ACE-B1BF-4D36-87A6-7C1206DD963E}|ExceptionsInWebAPI2\\ExceptionsInWebAPI2.csproj|solutionrelative:exceptionsinwebapi2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|solutionrelative:exceptionsinwebapi3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi3\\exceptionsinwebapi3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECBB15BE-6E47-4A89-844C-4984D7A225DF}|ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj|solutionrelative:exceptionsinwebapi3\\exceptionsinwebapi3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C454ACE-B1BF-4D36-87A6-7C1206DD963E}|ExceptionsInWebAPI2\\ExceptionsInWebAPI2.csproj|c:\\users\\surya.c.urs\\source\\repos\\exceptionsinwebapi\\exceptionsinwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C454ACE-B1BF-4D36-87A6-7C1206DD963E}|ExceptionsInWebAPI2\\ExceptionsInWebAPI2.csproj|solutionrelative:exceptionsinwebapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI3\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI3\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:24:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI4\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI4\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:24:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI4\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI4\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:03:49.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:25:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI4\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Services\\WeatherService.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI4\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:35:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI4\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI4\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:35:34.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T04:19:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI4\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI4\\Program.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:03:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:53:12.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI3\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\Program.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:07:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionsInWebAPI3.csproj",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj",
+              "RelativeToolTip": "ExceptionsInWebAPI3\\ExceptionsInWebAPI3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T04:23:47.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionsInWebAPI2\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\ExceptionsInWebAPI\\ExceptionsInWebAPI2\\Program.cs",
+              "RelativeToolTip": "ExceptionsInWebAPI2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T05:52:32.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
